@@ -1,0 +1,8 @@
+
+RespawnGear - a simple bukkit plugin to provide gear and inventory
+for players who entered a new server or respawned.
+
+To create a gear set, equip all the items you want and put stuff
+in bag slots, and type /respawngear.
+
+RespawnGear remembers enchantments and damage levels.

@@ -1,0 +1,9 @@
+name: RespawnGear
+main: org.foo_projects.sofar.RespawnGear.RespawnGear
+version: 2
+commands:
+    respawngear:
+        description: use the current inventory stack as the default spawn/join gear set 
+        usage: /respawngear
+        permission: respawngear
+        permission-message: You do not have sufficient privileges to do that!
